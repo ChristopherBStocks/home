@@ -5,5 +5,5 @@
   gaming = import ./gaming;
   jetbrains = import ./jetbrains;
   music = import ./music;
-  terminal = import ./terminal;
+  programming = import ./programming;
 }
