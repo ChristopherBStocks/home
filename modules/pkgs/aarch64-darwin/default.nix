@@ -1,0 +1,3 @@
+{
+  aerospace = import ./aerospace.nix;
+}

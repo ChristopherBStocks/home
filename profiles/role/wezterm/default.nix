@@ -1,0 +1,3 @@
+{
+  generic = import ./generic.nix;
+}

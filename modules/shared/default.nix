@@ -1,0 +1,3 @@
+{
+  aliases = import ./aliases;
+}
