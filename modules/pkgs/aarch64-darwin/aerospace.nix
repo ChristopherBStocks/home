@@ -3,6 +3,6 @@
 {
   home.packages = with pkgs-live;
     [
-      discord
+      aerospace
     ];
 }
