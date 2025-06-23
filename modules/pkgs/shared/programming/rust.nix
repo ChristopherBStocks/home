@@ -1,8 +1,12 @@
-{ pkgs-live, ... }:
+{ pkgs, pkgs-live, ... }:
 
 {
   home.packages = with pkgs-live;
-    [
-      rustup
-    ];
+  [
+      cargo
+      rustc
+      tokei
+      rustfmt
+      clippy
+  ];
 }
